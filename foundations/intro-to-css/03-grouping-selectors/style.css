@@ -1,0 +1,16 @@
+.left-button {
+    background-color: #000; /* Black */
+    color: #fff; /* White */
+}
+
+.right-button {
+    background-color: RGB(255, 255, 0); /* Yellow */
+    color: #000; /* Black */
+}
+
+.shared-attributes {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    border: #000 solid 2px;
+    padding: 3px;
+}
